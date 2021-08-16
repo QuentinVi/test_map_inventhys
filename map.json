@@ -1678,11 +1678,8 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "firstgid":5186,
-         "source":"src\/assets\/interior1.tsx 09.27.02"
-        }],
+        }
+],
  "tilewidth":32,
  "type":"map",
  "version":"1.6",
